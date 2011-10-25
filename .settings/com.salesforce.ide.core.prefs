@@ -1,4 +1,4 @@
-#Wed Oct 12 13:59:46 JST 2011
+#Tue Oct 25 20:08:48 JST 2011
 eclipse.preferences.version=1
 endpointApiVersion=20.0
 endpointEnvironment=Production/Developer Edition
@@ -8,6 +8,6 @@ ideVersion=20.0
 keependpoint=false
 metadataFormatVersion=20.0
 namespacePrefix=
-packageName=Mass Update And Edit
+packageName=unpackaged
 readTimeout=400
-username=knakajima@mupdate-medit.labs
+username=mass-delete.higuchi@uhuru.com
